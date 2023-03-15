@@ -1,0 +1,26 @@
+ 
+I'm excited to showcase my recent project at @TheSparkFountation, Predicting Student Score Based on Their Study Time, which included a comprehensive implementation of the Regression Model along with calculating the score.
+
+
+Domain: Data Science & Business Analytics
+Task 1: Predicting Student Score
+GitHub Link: https://github.com/ukantjadia/TSF-GRIP-Tasks/tree/Main/Task-01
+YouTube Link: https://youtu.be/iyESf_ChI74
+Collab Notebook : https://colab.research.google.com/drive/1x9vvvvaO_AoH-KOKhZuTmMNwd3pk1Kie?usp=sharing
+Collab Notebook(PDF) : ukantjadia.me/tsf/task-01.pdf
+Profile Website : www.ukantjadia.me
+
+
+
+
+
+
+I am very thankful to The Sparks Foundation for providing me with an internship opportunity.
+
+To know more about the internship under The Sparks Foundation, 
+visit: https://lnkd.in/g227qTdA 
+
+
+Please check my work and feel free to leave comments. 
+I would value your opinions! 
+
