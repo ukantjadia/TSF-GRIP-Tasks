@@ -1,4 +1,3 @@
- 
 I'm excited to showcase my recent project at @TheSparkFountation, Predicting Student Score Based on Their Study Time, which included a comprehensive implementation of the Regression Model along with calculating the score.
 
 
@@ -24,3 +23,6 @@ visit: https://lnkd.in/g227qTdA
 Please check my work and feel free to leave comments. 
 I would value your opinions! 
 
+#GRIPMARCH23 #GRIPMAR23 #tsf #thesparksfoundation
+#task01
+#datascience #internshipopportunity #internship #github #businessanalytics #work #project

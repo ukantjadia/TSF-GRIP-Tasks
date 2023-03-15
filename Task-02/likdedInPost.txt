@@ -1,0 +1,25 @@
+I'm eager to discuss the gains I've made in determining the ideal number of clusters. I was successful in reaching the ideal cluster number for the Iris Dataset's Target attribute.
+Elbow curve method and Silhoutte Score are the two main methods for finding the cluster. And to determine the number of clusters, I uses the elbow curve method.
+
+This was my second task under the @TheSparkFoundation.
+
+
+Domain: Data Science & Business Analytics
+Task 2: Find optimal number of Cluster
+GitHub Link : https://github.com/ukantjadia/TSF-GRIP-Tasks/tree/Main/Task-02
+YouTube Link : https://youtu.be/UTfB3jtFP34
+Collab Notebook : https://colab.research.google.com/drive/1Xx6zxlvT4zHD2P_2nXEMO3MZUjhZjTsk?usp=sharing
+Notebook(PDF) : ukantjadia.me/tsf/task-02.pdf 
+
+
+I am very thankful to The Sparks Foundation for providing me with an internship opportunity.
+
+To know more about the internship under The Sparks Foundation, 
+visit: https://internship.thesparksfoundation.info/
+
+Kindly go through my work and feel free to give your reviews. 
+Would appreciate feedback!
+
+#GRIPMARCH23 #GRIPMAR23 #tsf #thesparksfoundation
+#task02
+#datascience #internshipopportunity #internship #github #businessanalytics #work #project
