@@ -1,0 +1,43 @@
+I'm thrilled to share my most recent project at @TheSparkFoundation, Exploratory Data Analysis of Supermarket Data, which included a full examination of the entire dataset using Descriptive Statistical Analysis.
+
+
+This was my Third Task under the @TheSparkFoundation.
+
+
+
+Domain: Data Science & Business Analytics
+
+Task 3: EDA on SuperMarket dataset
+
+GitHub Link: https://github.com/ukantjadia/TSF-GRIP-Tasks/tree/Main/Task-03
+
+YouTube Link: https://youtu.be/L1NZrim8qEY
+
+Collab Notebook: https://drive.google.com/file/d/1nLlKPQMY7HaBqNWY-cw3PFZfgJ9ISbLc/view?usp=sharing
+
+LinkedIn Link: https://www.linkedin.com/posts/ukantjadia_gripmarch23-gripmar23-tsf-activity-7042560171226611712-2a2q?utm_source=share&utm_medium=member_desktop 
+
+Notebook(PDF) : ukantjadia.me/tsf/task-03.pdf 
+
+
+
+I am very thankful to The Sparks Foundation for providing me with an internship opportunity.
+
+
+To know more about the internship under The Sparks Foundation, 
+
+visit: https://internship.thesparksfoundation.info/
+
+
+Kindly go through my work and feel free to give your reviews. 
+
+Would appreciate feedback!
+
+
+
+
+#GRIPMARCH23 #GRIPMAR23 #tsf #thesparksfoundation
+
+#task03
+
+#datascience #internshipopportunity #internship #github #businessanalytics #work #project
